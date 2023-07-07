@@ -1,0 +1,7 @@
+Objects in javascript is the most important data-type in javascript.
+Objects act as the building blocks of javascript code.
+An object in javascript is of reference data type.They commonly come in
+key value pairs.
+Objects are created using the new keyword.
+Value of objects can be accessed using the key
+Objects can also be created using functions i.e Constructor or using create method.

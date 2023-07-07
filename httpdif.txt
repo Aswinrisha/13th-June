@@ -1,0 +1,6 @@
+HTTP 1.1                             vs                           HTTP2    
+HTTP1.1:works on textual format          HTTP2:works on the binary protocol
+HTTP1.1:does not allow multiplexing      HTTP2:allows multiplexing
+HTTP1.1:Requests resource inlining for   HTTP2:uses PUSH frame to collect 
+   collecting multiple pages                     multiple pages
+HTTP1.1:compresses data by itself        HTTP2:uses HPACK for data compression
